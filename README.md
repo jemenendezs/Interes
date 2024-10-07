@@ -10,17 +10,17 @@ Este programa en Python permite al usuario calcular el interés simple o compues
 ### Fórmulas Utilizadas
 
 1. **Interés Simple**:
-\[
-   I = P \times r \times t
-\]
+
+   $I = P \times r \times t$
+
    - `P`: Capital inicial (monto invertido o prestado).
    - `r`: Tasa de interés anual (en decimal).
    - `t`: Tiempo (en años).
 
 2. **Interés Compuesto**:
-\[
-   A = P \times \left(1 + \frac{r}{n}\right)^{nt}
-\]
+
+   $A = P \times \left(1 + \frac{r}{n}\right)^{nt}$
+
    - `P`: Capital inicial.
    - `r`: Tasa de interés anual (en decimal).
    - `n`: Frecuencia de composición (mensual, anual, etc.).
